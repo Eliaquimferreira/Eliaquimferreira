@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Eliaquim ou pode me chamar de Quim :)</h1>
+<h1 align="center">Oi 👋, eu sou Eliaquim ou pode me chamar de Eli :)</h1>
 <h3 align="center">Apaixonado por Jiu jitsu, Yoga e Tecnologia.</h3>
 
 - 🔭 Atualmente estou trabalhando com Análise e visualização [Análise de campanha de marketing com Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjVlZTA1NDAtMWVlZC00NmI4LTkzY2EtN2NmNWZhNWNkYWIyIiwidCI6ImI2ZjlhNGQ5LTQ2MDQtNDgxYi05OGJkLWI5YTFhMDViNjBjOSJ9)
