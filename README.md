@@ -13,7 +13,7 @@
 
 - 📄 Sabe sobre minhas experiências [https://www.linkedin.com/in/eliaquimferreira/](https://www.linkedin.com/in/eliaquimferreira/)
 
-- ⚡ Fato engraçado sobre mim **Eu tenho um irmão gêmeo e não se parece nada comigo. risos.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
